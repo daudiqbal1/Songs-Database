@@ -1,0 +1,13 @@
+go flex | post malone | stoney | hip-hop | 2016 | 3:10 | 4.2 |
+chlorine | 21pilots | trench | rock | 2018 | 3:30 | 3.3 |
+crashing | illenium | ascend | electronic | 2018 | 3:40 | 3.6 |
+bellyache | bellie eilish | dont smile at me | indie | 2017 | 2:59 | 4.3 |
+too young | post malone | stoney | pop | 2016 | 3:57 | 4.2 |
+watermelon sugar | harry styles | fine line | pop | 2019 | 3:09 | 4.1 |
+watch | billie eilish | dont smile at me | indie | 2017 | 2:56 | 3.8 |
+ocean eyes | billie eilish | dont smile at me | indie | 2017 | 3:20 | 4.6 |
+aadat | atif aslam | jal pari | pop | 2003 | 4:28 | 4.8 |
+psycho | post malone | beerbongs & bentleys | rock | 2018 | 3:41 | 3.5 |
+hhhh | kk | kk | ll | 777 | 999 | 5 |
+song | album | album | pop | 2018 | 3:10 | 4.6 |
+jeena jeena | atif aslam | badlapur | pop | 2014 | 3:51 | 5.0 |
